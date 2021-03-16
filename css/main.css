@@ -1,0 +1,55 @@
+html{
+    background-color: #ad3636;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    max-width: 1500px;
+    height: 100%;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+
+/* Présentation */
+
+.logo{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    font-size: 4rem;
+    color: #ad3636;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 20px;
+}
+
+.presentation p{
+    text-align: center;
+    font-size: 1.2rem;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+.fleche_bas,.fleche_haut{
+    width: 30px;
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fleche {
+    display: block;
+    width: 30px;
+    margin-left: auto;
+    margin-right: auto;  
+}
